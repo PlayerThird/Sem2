@@ -1,0 +1,15 @@
+G:\GB\C#\Семинар 2\HM15\bin\Debug\net7.0\HM15.exe
+G:\GB\C#\Семинар 2\HM15\bin\Debug\net7.0\HM15.deps.json
+G:\GB\C#\Семинар 2\HM15\bin\Debug\net7.0\HM15.runtimeconfig.json
+G:\GB\C#\Семинар 2\HM15\bin\Debug\net7.0\HM15.dll
+G:\GB\C#\Семинар 2\HM15\bin\Debug\net7.0\HM15.pdb
+G:\GB\C#\Семинар 2\HM15\obj\Debug\net7.0\HM15.csproj.AssemblyReference.cache
+G:\GB\C#\Семинар 2\HM15\obj\Debug\net7.0\HM15.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Семинар 2\HM15\obj\Debug\net7.0\HM15.AssemblyInfoInputs.cache
+G:\GB\C#\Семинар 2\HM15\obj\Debug\net7.0\HM15.AssemblyInfo.cs
+G:\GB\C#\Семинар 2\HM15\obj\Debug\net7.0\HM15.csproj.CoreCompileInputs.cache
+G:\GB\C#\Семинар 2\HM15\obj\Debug\net7.0\HM15.dll
+G:\GB\C#\Семинар 2\HM15\obj\Debug\net7.0\refint\HM15.dll
+G:\GB\C#\Семинар 2\HM15\obj\Debug\net7.0\HM15.pdb
+G:\GB\C#\Семинар 2\HM15\obj\Debug\net7.0\HM15.genruntimeconfig.cache
+G:\GB\C#\Семинар 2\HM15\obj\Debug\net7.0\ref\HM15.dll
