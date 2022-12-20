@@ -1,0 +1,15 @@
+G:\GB\C#\Семинар 2\Ex1\obj\Debug\net7.0\Ex1.csproj.AssemblyReference.cache
+G:\GB\C#\Семинар 2\Ex1\obj\Debug\net7.0\Ex1.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Семинар 2\Ex1\obj\Debug\net7.0\Ex1.AssemblyInfoInputs.cache
+G:\GB\C#\Семинар 2\Ex1\obj\Debug\net7.0\Ex1.AssemblyInfo.cs
+G:\GB\C#\Семинар 2\Ex1\obj\Debug\net7.0\Ex1.csproj.CoreCompileInputs.cache
+G:\GB\C#\Семинар 2\Ex1\bin\Debug\net7.0\Ex1.exe
+G:\GB\C#\Семинар 2\Ex1\bin\Debug\net7.0\Ex1.deps.json
+G:\GB\C#\Семинар 2\Ex1\bin\Debug\net7.0\Ex1.runtimeconfig.json
+G:\GB\C#\Семинар 2\Ex1\bin\Debug\net7.0\Ex1.dll
+G:\GB\C#\Семинар 2\Ex1\bin\Debug\net7.0\Ex1.pdb
+G:\GB\C#\Семинар 2\Ex1\obj\Debug\net7.0\Ex1.dll
+G:\GB\C#\Семинар 2\Ex1\obj\Debug\net7.0\refint\Ex1.dll
+G:\GB\C#\Семинар 2\Ex1\obj\Debug\net7.0\Ex1.pdb
+G:\GB\C#\Семинар 2\Ex1\obj\Debug\net7.0\Ex1.genruntimeconfig.cache
+G:\GB\C#\Семинар 2\Ex1\obj\Debug\net7.0\ref\Ex1.dll

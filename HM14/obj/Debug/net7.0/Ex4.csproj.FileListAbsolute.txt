@@ -1,0 +1,15 @@
+G:\GB\C#\Семинар 2\Ex4\bin\Debug\net7.0\Ex4.exe
+G:\GB\C#\Семинар 2\Ex4\bin\Debug\net7.0\Ex4.deps.json
+G:\GB\C#\Семинар 2\Ex4\bin\Debug\net7.0\Ex4.runtimeconfig.json
+G:\GB\C#\Семинар 2\Ex4\bin\Debug\net7.0\Ex4.dll
+G:\GB\C#\Семинар 2\Ex4\bin\Debug\net7.0\Ex4.pdb
+G:\GB\C#\Семинар 2\Ex4\obj\Debug\net7.0\Ex4.csproj.AssemblyReference.cache
+G:\GB\C#\Семинар 2\Ex4\obj\Debug\net7.0\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\C#\Семинар 2\Ex4\obj\Debug\net7.0\Ex4.AssemblyInfoInputs.cache
+G:\GB\C#\Семинар 2\Ex4\obj\Debug\net7.0\Ex4.AssemblyInfo.cs
+G:\GB\C#\Семинар 2\Ex4\obj\Debug\net7.0\Ex4.csproj.CoreCompileInputs.cache
+G:\GB\C#\Семинар 2\Ex4\obj\Debug\net7.0\Ex4.dll
+G:\GB\C#\Семинар 2\Ex4\obj\Debug\net7.0\refint\Ex4.dll
+G:\GB\C#\Семинар 2\Ex4\obj\Debug\net7.0\Ex4.pdb
+G:\GB\C#\Семинар 2\Ex4\obj\Debug\net7.0\Ex4.genruntimeconfig.cache
+G:\GB\C#\Семинар 2\Ex4\obj\Debug\net7.0\ref\Ex4.dll
